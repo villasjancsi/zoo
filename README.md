@@ -43,7 +43,7 @@ Employees also have salary, that you have to pay every hour.
 ### Pictures
 The following pictures created by me: map, containers, gui
 
-Every picture free for commercial use, and no attribution required.
+Every picture is free for commercial use, and no attribution required.
 Downloaded from [here](https://pixabay.com/en/users/OpenClipart-Vectors-30363/).
 
 ### Contributions
